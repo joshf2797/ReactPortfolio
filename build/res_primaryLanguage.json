@@ -1,0 +1,102 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "👋 I'm Joshua Fenn.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+      }
+    },
+    "projects": [
+      {
+        "title": "Vin Decoder",
+        "startDate": "2022",
+        "description": "This is vehicle vin decoder as well as an elecric vehicle charge locator using two different APIs",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://joshf2797.github.io/CarMaintenanceApp/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bulma-plain",
+            "name": "Bulma"
+          }
+        ]
+      },
+      {
+        "title": "Weather Dashboard",
+        "startDate": "2022",
+        "description": "A weather dashboard that will give you a 5 day forecast for the city you search for.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://joshf2797.github.io/weatherDashboard/",
+        "technologies": [
+          {
+            "class": "devicon-bootstrap-original",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Store Front",
+        "startDate": "2023",
+        "description": "This is an example for a medical marijuana online store front using handlebars for the UI",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/joshf2797/StoreFront",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-handlebars-plain",
+            "name": "Handlebars"
+          },
+          {
+            "class": "devicon-bootstrap-original",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "school": "University of Arizona",
+        "course": "Full Stack Web Development",
+        "years": "10.2022 - present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Node",
+          "React",
+          "Express",
+          "MySql",
+          "Mongodb"
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-frontend-dev-portfolio/static/css/main.9ce57151.css",
+    "main.js": "/react-frontend-dev-portfolio/static/js/main.a1a560db.js",
+    "index.html": "/react-frontend-dev-portfolio/index.html",
+    "main.9ce57151.css.map": "/react-frontend-dev-portfolio/static/css/main.9ce57151.css.map",
+    "main.a1a560db.js.map": "/react-frontend-dev-portfolio/static/js/main.a1a560db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce57151.css",
+    "static/js/main.a1a560db.js"
+  ]
+}

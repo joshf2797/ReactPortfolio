@@ -3,7 +3,7 @@ $cos45: 0.7071;
 $transition-bezier: cubic-bezier(0.5, 0.075, 0.25, 0.95);
 $slider-height-percentage: 60%;
 $slider-transition-duration: 575ms;
-$organic-arrow-color: #aa75ec;
+$organic-arrow-color: #ffffff;
 $organic-arrow-thickness: 4px;
 $organic-arrow-height: 40px;
 $organic-arrow-border-radius: 0;
@@ -12,11 +12,11 @@ $control-button-height: 25%;
 $control-button-opacity: 0.5;
 $control-button-hover-opacity: 0.75;
 $control-button-background: transparent;
-$loader-bar-color:#aa75ec;
+$loader-bar-color:#c48cec;
 $loader-bar-height: 6px;
-$control-bullet-color: #aa75ec;
-$control-bullet-active-color: #aa75ec;
-$content-background-color: #aa75ec;
+$control-bullet-color: #939096;
+$control-bullet-active-color: #c48cec;
+$content-background-color: #d1c5e0;
 
 %fill-parent {
   display: block;

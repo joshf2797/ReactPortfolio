@@ -47,6 +47,16 @@
           "name": "Mongodb",
           "class": "devicon-mongodb-plain",
           "level": "60"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "60"
+        },
+        {
+          "name": "Bulma",
+          "class": "devicon-bulma-plain",
+          "level": "60"
         }
       ]
     }

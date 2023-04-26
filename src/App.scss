@@ -94,11 +94,12 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #c48cec;
 }
 
 .slider-tab {
 	background-color: #c48cec;
+	border-radius: 5px 5px 0 0;
 	height: 25px;
 }
 
@@ -269,6 +270,7 @@ header h1 {
 
 .modal-inside .modal-content {
 	background: white;
+	border-radius: 5px;
 }
 
 .bars {
